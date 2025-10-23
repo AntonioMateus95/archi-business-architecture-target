@@ -2,19 +2,11 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Capacidades"
-    id="id-5e122a6a60a94bfeab849ade2d5a8948">
+    id="id-5e122a6a60a94bfeab849ade2d5a8948"
+    viewpoint="capability">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-0163511f787e4f4aae066d7ed25e1168">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-3f7d7fa1eca4439ba2f5ee7af190850d"
-        source="id-0163511f787e4f4aae066d7ed25e1168"
-        target="id-cd0c88a94fcb45318acd1ba7f6f9124e">
-      <archimateRelationship
-          xsi:type="archimate:AssociationRelationship"
-          href="AssociationRelationship_id-2eb1d117fe8746b4badbd5f813f5bf3b.xml#id-2eb1d117fe8746b4badbd5f813f5bf3b"/>
-    </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-91f71d2ec75244caacc917a0954e8195"
@@ -1148,18 +1140,5 @@
     <archimateElement
         xsi:type="archimate:Capability"
         href="Capability_id-34a8440781bc4de18406f24fcd206608.xml#id-34a8440781bc4de18406f24fcd206608"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-cd0c88a94fcb45318acd1ba7f6f9124e"
-      targetConnections="id-3f7d7fa1eca4439ba2f5ee7af190850d">
-    <bounds
-        x="1236"
-        y="12"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:ValueStream"
-        href="ValueStream_id-7419182883b047f1b62dfecdb8167298.xml#id-7419182883b047f1b62dfecdb8167298"/>
   </children>
 </archimate:ArchimateDiagramModel>
