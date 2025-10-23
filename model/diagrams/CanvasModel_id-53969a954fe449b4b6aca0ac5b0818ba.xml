@@ -56,14 +56,14 @@
         xsi:type="canvas:CanvasModelSticky"
         id="id-7e8eed1aa4f940db919b56970c9cfd52"
         fillColor="#ffff95"
-        content="Estruturar catálogo digital de peças e navegação intuitiva&#xD;&#xA;Manter informações consistentes e atualizadas&#xD;&#xA;Operar busca inteligente e suporte por IA&#xD;&#xA;Garantir segurança e desempenho no acesso&#xD;&#xA;Sincronizar operações de estoque e logística&#xD;&#xA;Analisar comportamento do cliente para melhoria contínua"
+        content="Comprar produtos baseados na curva ABC&#xD;&#xA;Estruturar catálogo digital de peças e navegação intuitiva&#xD;&#xA;Manter informações consistentes e atualizadas&#xD;&#xA;Operar busca inteligente e suporte por IA&#xD;&#xA;Garantir segurança e desempenho no acesso&#xD;&#xA;Sincronizar operações de estoque e logística&#xD;&#xA;Analisar comportamento do cliente para melhoria contínua"
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds
           x="24"
           y="48"
           width="181"
-          height="205"/>
+          height="229"/>
     </children>
   </children>
   <children
@@ -86,14 +86,14 @@
         xsi:type="canvas:CanvasModelSticky"
         id="id-85bc9b8b2e4345a9870b3ee4b42832bc"
         fillColor="#ffff95"
-        content="Pessoas: analista de e-commerce, especialista em mkt digital, equipe de suporte online, analista de dados, equipe de TI&#xD;&#xA;Sistemas: plataforma de e-commerce, CRM, sistema de busca inteligente, motor de recomendação, ferramenta de analytics, soluções de segurança digital&#xD;&#xA;Coisas: catálogo digital de produtos, base de clientes unificada, dados de navegação, histórico de vendas e estoque, plataforma de cloud"
+        content="Pessoas: especialista em mkt digital, equipe de suporte online, analista de dados, equipe de TI, compradores&#xD;&#xA;&#xD;&#xA;Sistemas: plataforma de e-commerce, CRM/ERP, ferramenta de analytics, soluções de segurança digital&#xD;&#xA;&#xD;&#xA;Coisas: catálogo digital de produtos, base de clientes, dados de navegação, plataforma de cloud"
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds
           x="12"
           y="60"
           width="205"
-          height="229"/>
+          height="217"/>
     </children>
   </children>
   <children
@@ -146,7 +146,7 @@
         xsi:type="canvas:CanvasModelSticky"
         id="id-81d5846f9a474fdcb11809010f8d2188"
         fillColor="#ffff95"
-        content="Autoatendimento assistido por IA&#xD;&#xA;&#xD;&#xA;Personalização baseada em dados&#xD;&#xA;&#xD;&#xA;Comunidade digital e suporte pós venda&#xD;&#xA;&#xD;&#xA;Campanhas omnichannel e remarketing"
+        content="Autoatendimento assistido por IA&#xD;&#xA;&#xD;&#xA;Personalização baseada em dados&#xD;&#xA;&#xD;&#xA;Campanhas omnichannel e remarketing&#xD;&#xA;&#xD;&#xA;Suporte técnico (Service Desk) via chat, vídeo e telefone"
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds
@@ -185,6 +185,19 @@
           width="109"
           height="63"/>
     </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="id-bed8366155e541098eb0885ee6151404"
+        fillColor="#ffff95"
+        content="Redes Sociais"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="60"
+          y="120"
+          width="109"
+          height="49"/>
+    </children>
   </children>
   <children
       xsi:type="canvas:CanvasModelBlock"
@@ -219,14 +232,14 @@
         xsi:type="canvas:CanvasModelSticky"
         id="id-ed566ab47bff465f93957d0009d5006f"
         fillColor="#ffff95"
-        content="Consumidores finais (pessoa física) distantes do estabelecimento físico"
+        content="Clientes de todo o Brasil"
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds
           x="24"
           y="228"
           width="169"
-          height="63"/>
+          height="49"/>
     </children>
   </children>
   <children
@@ -249,7 +262,7 @@
         xsi:type="canvas:CanvasModelSticky"
         id="id-0a197eff0f924f5488e7bf803dade7bd"
         fillColor="#ffff95"
-        content="Pessoas: analista de e-commerce, especialista em mkt digital, equipe de suporte online, analista de dados, equipe de TI&#xD;&#xA;&#xD;&#xA;Sistemas: plataforma de e-commerce, CRM, sistema de busca inteligente, motor de recomendação, ferramenta de analytics, soluções de segurança digital&#xD;&#xA;&#xD;&#xA;Coisas: catálogo digital de produtos, base de clientes unificada, dados de navegação, histórico de vendas e estoque, plataforma de cloud"
+        content="Pessoas: especialista em mkt digital, equipe de suporte online, analista de dados, equipe de TI, compradores&#xD;&#xA;&#xD;&#xA;Sistemas: plataforma de e-commerce, CRM/ERP, ferramenta de analytics, soluções de segurança digital&#xD;&#xA;&#xD;&#xA;Coisas: catálogo digital de produtos, base de clientes, dados de navegação, plataforma de cloud"
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds
@@ -306,7 +319,7 @@
         xsi:type="canvas:CanvasModelSticky"
         id="id-87a503360ca14adaa1d5a7443c5a5eed"
         fillColor="#ffff95"
-        content="Marketing digital e parcerias B2B"
+        content="Publicidade de marcas e fornecedores no site"
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds
