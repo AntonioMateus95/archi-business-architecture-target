@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Sessão de Navegação"
-    id="id-411b2b5ede0940c78be50fe11599c4a5"/>
+    id="id-411b2b5ede0940c78be50fe11599c4a5"
+    documentation="Representa o conjunto de interações realizadas pelo cliente dentro do e-commerce durante um período contínuo de acesso.&#xD;&#xA;Inclui ações como visualização de produtos, aplicação de filtros, realização de consultas de busca, adição de itens ao carrinho e finalização de compras."/>

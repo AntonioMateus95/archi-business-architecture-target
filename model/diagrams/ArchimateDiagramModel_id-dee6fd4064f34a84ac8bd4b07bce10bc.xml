@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Etapa comprar produtos baseados na curva ABC"
+    name="Etapa Comprar produtos baseados na curva ABC"
     id="id-dee6fd4064f34a84ac8bd4b07bce10bc">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
