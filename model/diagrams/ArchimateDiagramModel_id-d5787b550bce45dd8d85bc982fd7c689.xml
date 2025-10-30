@@ -26,9 +26,9 @@
           href="AssociationRelationship_id-51771906ceef4ae7946965f9555f9f9b.xml#id-51771906ceef4ae7946965f9555f9f9b"/>
     </sourceConnections>
     <bounds
-        x="672"
+        x="636"
         y="96"
-        width="120"
+        width="156"
         height="55"/>
     <archimateElement
         xsi:type="archimate:ValueStream"
