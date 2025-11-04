@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Escalonamento para Suporte Humano"
+    id="id-187064490e454b5b942195de452c82ba"
+    documentation="processo é ativado quando a IA não consegue resolver a dúvida técnica, seja por complexidade, falta de dados ou solicitação direta do cliente."/>
