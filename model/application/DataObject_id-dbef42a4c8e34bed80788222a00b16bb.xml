@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Base de Dados para RAG"
+    id="id-dbef42a4c8e34bed80788222a00b16bb"
+    documentation="Base de dados vetorial usada para desenvolver soluções de RAG (Retrieval Augmented Generation)"/>
