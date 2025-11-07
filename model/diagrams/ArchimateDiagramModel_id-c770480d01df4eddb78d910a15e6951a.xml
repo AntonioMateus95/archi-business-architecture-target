@@ -136,8 +136,8 @@
     </sourceConnections>
     <bounds
         x="12"
-        width="1205"
-        height="1253"/>
+        width="877"
+        height="925"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-398d147bfe7f4e8ab9fac53bad9dcc08"
@@ -400,8 +400,8 @@
           href="AssociationRelationship_id-2eb1d117fe8746b4badbd5f813f5bf3b.xml#id-2eb1d117fe8746b4badbd5f813f5bf3b"/>
     </sourceConnections>
     <bounds
-        x="1344"
-        y="20"
+        x="996"
+        y="24"
         width="120"
         height="55"/>
     <archimateElement
