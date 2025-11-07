@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Retroalimentar IA com novas soluções"
+    id="id-86cbf535e8344b4aaf0d2d42d9deb197"
+    documentation="Este processo garante a &quot;melhoria contínua&quot; (citada no BMC) e ocorre após o processo anterior, usando a solução humana para ensinar a IA."/>
